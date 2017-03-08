@@ -83,7 +83,10 @@ h1 {
 
 
 /* Insert CSS for earrings below this line*/
-
+#earrings {
+  width:200px;
+  height:500px;
+}
 
 
 
