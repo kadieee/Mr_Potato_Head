@@ -53,6 +53,9 @@ h1 {
 
 
 /* Insert CSS for glasses below this line*/
+#glasses_image {
+  top: 123px; left: 102px;
+}
 
 
 
