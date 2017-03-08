@@ -28,7 +28,9 @@ h1 {
 }
 
 /* Insert CSS for ears below this line*/
-
+#hat_image {
+  top: 2px; left: 100px;
+}
 
 
 
