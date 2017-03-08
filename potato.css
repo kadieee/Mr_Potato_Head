@@ -32,21 +32,6 @@ h1 {
 
 
 
-/* Insert CSS for eyes below this line*/
-
-
-
-
-/* Insert CSS for mouth below this line*/
-
-
-
-
-/* Insert CSS for nose below this line*/
-
-
-
-
 /* Insert CSS for eyebrows below this line*/
 
 
@@ -58,7 +43,9 @@ h1 {
 
 
 /* Insert CSS for hat below this line*/
-
+#nose_image{
+  top:180px;left: 130px;
+}
 
 
 
