@@ -29,11 +29,19 @@ h1 {
 
 /* Insert CSS for ears below this line*/
 
+#hat_image {
+  top: 2px; left: 100px;
+}
 
+#ears_image {
+  top: 105px; left:56px;
+}
 
 
 /* Insert CSS for eyes below this line*/
-
+#eyes_image{
+ top: 88px; left: 130px;
+}
 
 
 
@@ -53,6 +61,9 @@ h1 {
 
 
 /* Insert CSS for glasses below this line*/
+#glasses_image {
+  top: 123px; left: 102px;
+}
 
 
 
@@ -69,7 +80,10 @@ h1 {
 
 /* Insert CSS for moustache below this line*/
 
-
+#moustache_image {
+  top: 190px; left: 93px; 
+     transform: rotate(-3deg);
+}
 
 
 /* Insert CSS for shoes below this line*/
@@ -86,7 +100,10 @@ h1 {
 
 
 /* Insert CSS for earrings below this line*/
-
+#earrings {
+  width:200px;
+  height:500px;
+}
 
 
 
